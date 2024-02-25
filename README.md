@@ -45,18 +45,18 @@
 
 >첫째, 영문 기사 7.77KB 크기 파일 (출처: CNN) 
 
-<img src = "https://github.com/serenhade00/serenhade00.github.io/blob/main/assets/size_1.jpg?raw=true" width="500" height ="250" />
+<img src = "https://github.com/serenhade00/serenhade00.github.io/blob/master/assets/size_1.jpg?raw=true" width="500" height ="250" alt="Img"/>
 
 >둘째, 영어 회화 수업에 사용한 과제 내용(반복) 101.2KB 파일 (출처: ~~본인~~)
 
-<img src = "https://github.com/serenhade00/serenhade00.github.io/blob/main/assets/size_2.jpg?raw=true" width="500" height ="250" />
+<img src = "https://github.com/serenhade00/serenhade00.github.io/blob/master/assets/size_2.jpg?raw=true" width="500" height ="250" alt="Img"/>
 
 <br>
 
 >실행 결과는 순서대로 다음과 같다.
 
-![test](https://github.com/serenhade00/serenhade00.github.io/blob/main/assets/Test4.jpg?raw=true)
-![test1](https://github.com/serenhade00/serenhade00.github.io/blob/main/assets/Test5.jpg?raw=true)
+![test](https://github.com/serenhade00/serenhade00.github.io/blob/master/assets/Test4.jpg?raw=true)
+![test1](https://github.com/serenhade00/serenhade00.github.io/blob/master/assets/Test5.jpg?raw=true)
 
 ### 일반적 성능 & 시간복잡도 분석
 
